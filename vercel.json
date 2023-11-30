@@ -2,7 +2,7 @@
     "version": 2,
     "builds": [
       {
-        "src": "./index.js",
+        "src": "./getSpecifiedLocations.js",
         "use": "@vercel/node"
       }
     ],
